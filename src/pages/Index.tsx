@@ -27,6 +27,10 @@ const Index = () => {
           <Link to="/register" className="n-button bg-secondary text-secondary-foreground w-full py-2.5 rounded-md flex items-center justify-center">
             Register Now
           </Link>
+          
+          <Link to="/showcase" className="n-button bg-accent text-accent-foreground w-full py-2.5 rounded-md flex items-center justify-center">
+            Component Showcase
+          </Link>
         </div>
 
         <div className="mt-6 flex flex-wrap justify-center gap-2">
